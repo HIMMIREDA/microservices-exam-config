@@ -13,7 +13,7 @@ spring:
     name: courses
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5433/schools
+    url: jdbc:postgresql://localhost:5433/courses
     username: reda
     password: secret
   jpa:
